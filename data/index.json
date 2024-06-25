@@ -1,94 +1,149 @@
 {
     "jobTitle": [
         {
-            "jobTitle": "Software Developer"
+            "title": "Software Developer",
+            "colour" : "red"
         }
     ],
     "about": [
-        {
-            "bio": "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
-        }
+        "I'm Mardoquéiro Dimbu, a software developer passionate about coding. I started my coding journey after matriculating from Wynberg Boys High School in 2023. I was inspired by my upbringing in a children's home and the pandemic gave me the opportunity to discover my love for coding. I'm dedicated to enhancing my skills at Life Choices Coding Academy, driven by my love for technology and my ambition to excel in the field."
     ],
     "education": [
-        [
-            {
-                "name": "Simon's Town primarySchool",
-                "location": "Simon's Town, South Africa",
-                "duration": "2012 - 2014"
-            },
-            {
-                "name": "St Agnes R.C primary School",
-                "location": "Woodstock, South Africa",
-                "duration": "2014 - 2018"
-            },
-            {
-                "name": "Wynberg Boys' High School",
-                "location": "Wynberg, South Africa",
-                "duration": "2019 - 2023"
-            },
-            {
-                "name": "Life Choices Coding Academy",
-                "location": "lansdowne, South Africa",
-                "duration": "2024 - 2025"
-            }
-        ]
+        {
+        "id": 1,
+        "name": "Simon's Town primarySchool",
+        "duration": "2012 - 2014",
+        "description": ""
+        },
+        {
+        "id": 2,
+        "name": "St Agnes R.C primary School",
+        "duration": "2014 - 2018",
+        "description": ""
+        },
+        {
+        "id": 3,
+        "name": "Wynberg Boys' High School",
+        "duration": "2019 - 2023",
+        "description": ""
+        },
+        {
+        "id": 4,
+        "name": "Life Choices Coding Academy",
+        "duration": "2024 - 2025",
+        "description": ""
+        }
     ],
     "experiences": [
         {
-            "work": "Receptionist at The Homestead Head office, Cape Town"
+        "id": 1,
+        "companyName": "The Homestead",
+        "jobTitle": "Sectury",
+        "duration": "February 2024 - February 2024",
+        "duties": ["I had to answer calls and report to the manager"]
         }
+        
     ],
     "skills": [
-        [
-            "html",
-            "css",
-            "javascript",
-            "vue",
-            "git"
-        ]
+        {
+        "title": "Web Development",
+        "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+        },
+        {
+        "title": "",
+        "experience": ""
+        },
+        {
+        "title": "",
+        "experience": ""
+        },
+        {
+        "title": "",
+        "experience": ""
+        },
+        {
+        "title": "",
+        "experience": ""
+        },
+        {
+        "title": "",
+        "experience": ""
+        }        
     ],
     "testimonials": [
         {
-            "name": "Anushqa Kandan",
-            "testimonial": "Mardoquéiro is an extremely hardworking and dedicated individual who always strives to do his best. He communicates well with others and works well in a team. He has a great sense of creativity and always goes the extra mile. Mordecai adds great value to any organization and has proven it time and time again."
+            "name": "Anushqa",
+            "surname": "Kandan",
+            "quotes": "Mardoquéiro is an extremely hardworking and dedicated individual who always strives to do his best. He communicates well with others and works well in a team. He has a great sense of creativity and always goes the extra mile. Mordecai adds great value to any organization and has proven it time and time again.",
+            "profile": "https://mardoqueiro.github.io/all_images/"
         },
         {
-            "name": "Nizaam Jeftha",
-            "testimonial": "Mardoquéiro is an amazing coder and a really cool person. He's super creative and makes coding look like art. Working with him is awesome because he's friendly and always ready to help out. Working with Mordecai is not just productive, it's also a whole lot of fun!"
+            "name": "Nizaam",
+            "surname": "Jeftha",
+            "quotes": "Mardoquéiro is an amazing coder and a really cool person. He's super creative and makes coding look like art. Working with him is awesome because he's friendly and always ready to help out. Working with Mordecai is not just productive, it's also a whole lot of fun!",
+            "profile": "https://mardoqueiro.github.io/all_images/"
         },
         {
-            "name": "Amy Johnson",
-            "testimonial": "Mardoquéiro is extremely passionate about coding. He remains calm in stressful situations and evaluates multiple outcomes of a solution before making a final decision. He is precise and his solutions are practical and effective. He carries himself professionally and works well in a team. His explanations are clear with no ambiguity. Mordecai would be a great asset to your company."
+            "name": "Amy",
+            "surname": "Johnson",
+            "quotes": "Mardoquéiro is extremely passionate about coding. He remains calm in stressful situations and evaluates multiple outcomes of a solution before making a final decision. He is precise and his solutions are practical and effective. He carries himself professionally and works well in a team. His explanations are clear with no ambiguity. Mordecai would be a great asset to your company.",
+            "profile": "https://mardoqueiro.github.io/all_images/"
         },
         {
-            "name": "Ismaaeel Ahmed",
-            "testimonial": "Mardoquéiro is a diligent worker who puts in the effort. He has a thirst for knowledge and self-improvement. He behaves in a respectful manner and is easy to approach. He is wonderful to be around."
+            "name": "Ismaaeel",
+            "surname": "Ahmed",
+            "quotes": "Mardoquéiro is a diligent worker who puts in the effort. He has a thirst for knowledge and self-improvement. He behaves in a respectful manner and is easy to approach. He is wonderful to be around.",
+            "profile": "https://mardoqueiro.github.io/all_images/"
         },
         {
-            "name": "Mapule Mbuzwana",
-            "testimonial": "Mordecai is a full-stack wizard who brings websites to life with style and functionality. He is always on point with deadlines and communication. He would be a great asset to your team."
+            "name": "Mapule",
+            "surname": "Mbuzwana",
+            "quotes": "Mordecai is a full-stack wizard who brings websites to life with style and functionality. He is always on point with deadlines and communication. He would be a great asset to your team.",
+            "profile": "https://mardoqueiro.github.io/all_images/"
         }
     ],
     "projects": [
         {
-            "name": "Calculator",
-            "languages": ["html", "css"]
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": ""
+            
         },
         {
-            "name": "Keyboard",
-            "languages": ["html", "css"]
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "vercel": ""
         },
         {
-            "name": "SWEGGA_websiteChallenge",
-            "languages": ["html", "css", "javascript"]
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "vercel": ""
         },
         {
-            "name": "TEMPERATURE_CONVERTOR",
-            "languages": ["html", "css", "javascript"]
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "vercel": ""            
         },
         {
-            "name": "TIC-TAC-TOE",
-            "languages": ["html", "css"]
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "vercel": ""            
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "vercel": ""            
         }
     ]
 }
