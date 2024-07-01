@@ -1,7 +1,19 @@
 {
     "jobTitle": [
         {
-            "title": "Software Developer",
+            "title": "Aspiring Software Developer",
+            "colour" : "blue"
+        },
+        {
+            "title": "Aspiring Full-stack Developer",
+            "colour" : "green"
+        },
+        {
+            "title": "Aspiring Frontend Developer",
+            "colour" : "yellow"
+        },
+        {
+            "title": "YouTuber",
             "colour" : "red"
         }
     ],
