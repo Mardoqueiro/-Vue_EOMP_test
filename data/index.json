@@ -83,66 +83,66 @@
             "name": "Anushqa",
             "surname": "Kandan",
             "quotes": "Mardoquéiro is an extremely hardworking and dedicated individual who always strives to do his best. He communicates well with others and works well in a team. He has a great sense of creativity and always goes the extra mile. Mordecai adds great value to any organization and has proven it time and time again.",
-            "profile": "https://mardoqueiro.github.io/all_images/images/Anushqa-image.jpg"
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Anushqa.jpg"
         },
         {
             "name": "Nizaam",
             "surname": "Jeftha",
             "quotes": "Mardoquéiro is an amazing coder and a really cool person. He's super creative and makes coding look like art. Working with him is awesome because he's friendly and always ready to help out. Working with Mordecai is not just productive, it's also a whole lot of fun!",
-            "profile": "https://mardoqueiro.github.io/all_images/images/T02LW4RMXJQ-U06SKGACACT-3301ce51c7a1-192.jpg"
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Nizaam.jpg"
         },
         {
             "name": "Amy",
             "surname": "Johnson",
             "quotes": "Mardoquéiro is extremely passionate about coding. He remains calm in stressful situations and evaluates multiple outcomes of a solution before making a final decision. He is precise and his solutions are practical and effective. He carries himself professionally and works well in a team. His explanations are clear with no ambiguity. Mordecai would be a great asset to your company.",
-            "profile": "https://mardoqueiro.github.io/all_images/images/Amy-pic.jpg"
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Amy.jpg"
         },
         {
             "name": "Ismaaeel",
             "surname": "Ahmed",
             "quotes": "Mardoquéiro is a diligent worker who puts in the effort. He has a thirst for knowledge and self-improvement. He behaves in a respectful manner and is easy to approach. He is wonderful to be around.",
-            "profile": "https://mardoqueiro.github.io/all_images/images/20240422_094042.jpg"
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Ismaaeel.jpg"
         },
         {
             "name": "Mapule",
             "surname": "Mbuzwana",
             "quotes": "Mordecai is a full-stack wizard who brings websites to life with style and functionality. He is always on point with deadlines and communication. He would be a great asset to your team.",
-            "profile": "https://mardoqueiro.github.io/all_images/images/20240422_094924.jpg"
+            "profile": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Testimonial/Mapule.jpg"
         }
     ],
     "projects": [
         {
             "name": "To-do-list",
             "description": "A simple task management application to organize and track daily activities and responsibilities.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/To-do-list.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/To-do-list.png",
             "gitHub": "https://github.com/Mardoqueiro/Todo-app-Challenge.git",
             "vercel": "https://todo-app-challenge-omega.vercel.app"
         },
         {
             "name": "E-com Website",
             "description": "An online platform for browsing, purchasing, and managing products and services securely.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/E-ComWebsite.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/E-ComWebsite.png",
             "gitHub": "https://github.com/Mardoqueiro/RetroQueiro.git",
             "vercel": "https://retro-queiro.vercel.app"
         },
         {
             "name": "Temperature Converter",
             "description": "A tool for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/TemperatureConveerter.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/TemperatureConveerter.png",
             "gitHub": "https://github.com/Mardoqueiro/TEMPERATURE_CONVERTOR.git",
             "vercel": "https://temperature-convertor-rho-beryl.vercel.app"            
         },
         {
             "name": "Calculator",
             "description": "A basic arithmetic calculator for performing addition, subtraction, multiplication, and division.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/Calculator.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/Calculator.png",
             "gitHub": "https://github.com/Mardoqueiro/New_calculator.git",
             "vercel": "https://new-calculator-olive.vercel.app"            
         },
         {
             "name": "Key Board",
             "description": "A virtual or physical keyboard interface for inputting text and executing commands on digital devices.",
-            "image": "https://mardoqueiro.github.io/all_images/VueJs.porfolio/project.images/KeyBoard.png",
+            "image": "https://mardoqueiro.github.io/all_images/Vue.EOMP/Projects/KeyBoard.png",
             "gitHub": "https://github.com/Mardoqueiro/keyboard.git",
             "vercel": "https://keyboard-topaz.vercel.app"            
         }
